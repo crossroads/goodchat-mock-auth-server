@@ -1,0 +1,7 @@
+{
+  "authenticate": {
+    "displayName": "Jane Doe",
+    "userId": "fakeUserId",
+    "permissions": ["admin"]
+  }
+}
